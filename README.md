@@ -14,9 +14,24 @@
 
 <h2>Screenshots</h2>
 
-<h3>Home</h3>
+<h3>Home Page</h3>
 
-![Screenshot 2023-03-27 at 16 35 14](https://user-images.githubusercontent.com/114992640/227973896-88b9973b-c25d-4600-bdcc-df5288b58a1a.png) ![Screenshot 2023-03-27 at 16 35 39](https://user-images.githubusercontent.com/114992640/227973949-47da99e0-eb98-4961-a465-0be49ecf12b2.png) ![Screenshot 2023-03-27 at 16 36 06](https://user-images.githubusercontent.com/114992640/227973983-7c11aed1-76f9-4a55-9621-6f537c3cf1d0.png)
+![Screenshot 2023-03-27 at 16 35 14](https://user-images.githubusercontent.com/114992640/227973896-88b9973b-c25d-4600-bdcc-df5288b58a1a.png) ![Screenshot 2023-03-27 at 16 35 39](https://user-images.githubusercontent.com/114992640/227973949-47da99e0-eb98-4961-a465-0be49ecf12b2.png) 
+<br>
+![Screenshot 2023-03-27 at 16 36 06](https://user-images.githubusercontent.com/114992640/227973983-7c11aed1-76f9-4a55-9621-6f537c3cf1d0.png)
 
+<h3>Single Furniture Page</h3>
+
+
+
+<h3>Shopping Cart Page</h3>
+
+
+
+<h3>Registration Page</h3>
+
+
+
+<h3>Login Page</h3>
 
 
