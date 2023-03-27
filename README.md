@@ -16,22 +16,29 @@
 
 <h3>Home Page</h3>
 
-![Screenshot 2023-03-27 at 16 35 14](https://user-images.githubusercontent.com/114992640/227973896-88b9973b-c25d-4600-bdcc-df5288b58a1a.png) ![Screenshot 2023-03-27 at 16 35 39](https://user-images.githubusercontent.com/114992640/227973949-47da99e0-eb98-4961-a465-0be49ecf12b2.png) 
+![Screenshot 2023-03-27 at 16 59 01](https://user-images.githubusercontent.com/114992640/227980595-9f205b82-b6e9-452b-85f5-c3256040a4cf.png)
 <br>
-![Screenshot 2023-03-27 at 16 36 06](https://user-images.githubusercontent.com/114992640/227973983-7c11aed1-76f9-4a55-9621-6f537c3cf1d0.png)
+![Screenshot 2023-03-27 at 16 59 14](https://user-images.githubusercontent.com/114992640/227980697-dcf3a12a-31af-4075-bd88-c635ce7e8aab.png)
+<br>
+![Screenshot 2023-03-27 at 16 59 27](https://user-images.githubusercontent.com/114992640/227980787-2c346da4-5c0d-41f8-8e8d-34d14255e616.png)
+
 
 <h3>Single Furniture Page</h3>
 
+![Screenshot 2023-03-27 at 16 59 45](https://user-images.githubusercontent.com/114992640/227980929-43ea1ac5-93c3-407d-b062-b14223e8070f.png)
+<br>
+![Screenshot 2023-03-27 at 16 59 50](https://user-images.githubusercontent.com/114992640/227981003-2cc16c4e-5d75-4b87-bc00-60663bea3618.png)
 
 
 <h3>Shopping Cart Page</h3>
 
-
+![Screenshot 2023-03-27 at 17 00 02](https://user-images.githubusercontent.com/114992640/227981086-6b40433f-9b61-4895-a9c4-39e120b08e70.png)
 
 <h3>Registration Page</h3>
 
-
+![Screenshot 2023-03-27 at 17 00 20](https://user-images.githubusercontent.com/114992640/227981200-cebaf53e-7b84-4525-8b76-db850053106c.png)
 
 <h3>Login Page</h3>
 
+![Screenshot 2023-03-27 at 17 00 26](https://user-images.githubusercontent.com/114992640/227981295-9127ea5a-2e42-476b-aecb-9aa381c75971.png)
 
