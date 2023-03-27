@@ -12,6 +12,24 @@
     Being the first project where we had to create an entire back-end side of the application, my personal choice was to lean over the MERN stack (Mongo DB, Express.js, React.js, Node.js) for the entire project. However, prefering to practice our recently acquired MySQL skills, we decided to lean over a back-end side done in Node.js, Express.js and raw MySQL using Node.js Sequelize module.   
 </p>
 
+<h2>Repository cloning and installation</h2>
+
+<p>
+    Before anything, make sure you have the latest versions of <strong>Node.js</strong>, <strong>MySQL</strong> and <strong>MySQLWorkbench</strong> installed on your computer.
+</p>
+<ul>
+    <li>
+        <a href="https://nodejs.org/en/download" alt="Node.js dowloads page.">Node.js</a>
+    </li>
+    <li>
+        <a href="https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/" alt="MySQL Installation Guide.">MySQL</a>
+    </li>
+    <li>
+        <a href="https://dev.mysql.com/downloads/workbench/" alt="MySQLWorkbench Installation Guide">MySQLWorkbench</a>
+    </li>
+</ul>
+
+
 <h2>Screenshots</h2>
 
 <h3><ins>Home Page</ins></h3>
