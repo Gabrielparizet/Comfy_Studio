@@ -33,6 +33,8 @@
 
 <h3>Installation</h3>
 
+Import all the sql files present in the mysql_database directory in MySQLWorkbench in a new schema that you will call: <strong>comfy_studio</strong>. <br>
+
 Clone the repository: <br>
 
 ```
@@ -41,9 +43,32 @@ git clone git@github.com:Gabrielparizet/Comfy_Studio.git
 
 Change directory in the <strong>api</strong> directory: <br>
 
-````
+```
 cd api
 ```
+
+Install NPM packages:
+
+```
+npm install
+```
+
+Create a .env file at the root of the <strong>api directory</strong>. Make sure this file is added to the <strong>.gitignore file</strong>. <br>
+Fill this file according to your MySQL database name, username and password:
+
+```
+database = comfy_studio
+user = root
+password = your_mysql_password
+```
+
+Remaining in the api directory, go to <strong>bin/www</strong> and change the port number on line 15 to the number of your choice. Here, we use port number <strong>'9000'</strong>.
+
+
+
+
+
+
 
 <h2>Screenshots</h2>
 
