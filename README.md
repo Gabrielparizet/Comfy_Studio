@@ -101,7 +101,7 @@ npm start
 
 This will launch the express.js server which should be running on the port you define earlier in <strong>api/bin/www</strong>, in our case that is <strong>port '9000'</strong>. <br>
 
-Open a new terminal in the <strong>Comfy_Studip</strong> directory. <br>
+Open a new terminal in the <strong>Comfy_Studio</strong> directory. <br>
 
 Change directory to go into the <strong>client directory</strong>:
 
