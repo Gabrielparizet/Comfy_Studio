@@ -69,7 +69,7 @@ Your api directory is ready to run. <br><br>
 Go back to the root of the Comfy_Studio directory in your terminal and change directory into the client directory: <br>
 
 ```
-cd..
+cd ..
 cd client
 ```
 
@@ -89,7 +89,7 @@ First of all, make sure your MySQL server is running on your computer. <br>
 Then, go back to the root of the <strong>Comfy_Studio</strong> directory in your terminal and change directory to the <strong>api directory</strong>:
 
 ```
-cd..
+cd ..
 cd api
 ```
 
