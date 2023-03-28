@@ -12,7 +12,7 @@
     Being the first project where we had to create an entire back-end side of the application, my personal choice was to lean over the MERN stack (Mongo DB, Express.js, React.js, Node.js) for the entire project. However, prefering to practice our recently acquired MySQL skills, we decided to lean over a back-end side done in Node.js, Express.js and raw MySQL using Node.js Sequelize module.   
 </p>
 
-<h2>Getting started <br>(Section undergoing work)</h2>
+<h2>Installation <br>(Section undergoing work)</h2>
 
 <h3>Prerequisites</h3>
 
@@ -31,7 +31,7 @@
     </li>
 </ul>
 
-<h3>Installation</h3>
+<h3>Installation instructions</h3>
 
 Import all the sql files present in the mysql_database directory in MySQLWorkbench in a new schema that you will call: <strong>comfy_studio</strong>. <br>
 
@@ -62,12 +62,62 @@ user = root
 password = your_mysql_password
 ```
 
-Remaining in the api directory, go to <strong>bin/www</strong> and change the port number on line 15 to the number of your choice. Here, we use port number <strong>'9000'</strong>.
+Remaining in the api directory, go to <strong>bin/www</strong> and change the port number on line 15 to the number of your choice. Here, we use port number <strong>'9000'</strong>. <br>
+
+Your api directory is ready to run. <br><br>
+
+Go back to the root of the Comfy_Studio directory in your terminal and change directory into the client directory: <br>
+
+```
+cd..
+cd client
+```
+
+Install NPM packages:
+
+```
+npm install
+```
+
+Your client directory is ready to run. <br><br>
 
 
+<h3>Running the application</h3>
 
+First of all, make sure your MySQL server is running on your computer. <br>
 
+Then, go back to the root of the <strong>Comfy_Studio</strong> directory in your terminal and change directory to the <strong>api directory</strong>:
 
+```
+cd..
+cd api
+```
+
+Still in your terminal, run the command:
+
+```
+npm start
+```
+
+This will launch the express.js server which should be running on the port you define earlier in <strong>api/bin/www</strong>, in our case that is <strong>port '9000'</strong>. <br>
+
+Open a new terminal in the <strong>Comfy_Studip</strong> directory. <br>
+
+Change directory to go into the <strong>client directory</strong>:
+
+```
+cd client
+```
+
+Run the command:
+
+```
+npm start
+```
+
+This will launch the React.js application in which should be running on <strong>port number '3000'</strong>. <br><br>
+
+That's it, the Comfy_Studio application is running on your computer! Enjoy!
 
 
 <h2>Screenshots</h2>
