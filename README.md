@@ -82,7 +82,7 @@ npm install
 Your client directory is ready to run. <br><br>
 
 
-<h3>Running the application</h3>
+<h2>Running the application</h2>
 
 First of all, make sure your MySQL server is running on your computer. <br>
 
