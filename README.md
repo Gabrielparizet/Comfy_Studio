@@ -37,7 +37,7 @@
     <li>
         Clone the repository: <br> 
 
-```git clone git@github.com:Gabrielparizet/Comfy_Studio.git```
+```zsh git clone git@github.com:Gabrielparizet/Comfy_Studio.git```
 
 </li>
 </ol>
