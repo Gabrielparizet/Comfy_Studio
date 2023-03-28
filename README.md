@@ -35,12 +35,7 @@
 
 <ol>
     <li>
-        Clone the repository:
-
-        ```
-        git clone git@github.com:Gabrielparizet/Comfy_Studio.git
-        ```
-
+        Clone the repository: <br> ```git clone git@github.com:Gabrielparizet/Comfy_Studio.git```
     </li>
 </ol>
 
