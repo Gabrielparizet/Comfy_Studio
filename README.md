@@ -35,12 +35,12 @@
 
 <ol>
     <li>
-        Clone the repository: <br>
+        Clone the repository:
 
-        ```zsh
+        ```
         git clone git@github.com:Gabrielparizet/Comfy_Studio.git
         ```
-        
+
     </li>
 </ol>
 
