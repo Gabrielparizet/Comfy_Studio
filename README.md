@@ -33,15 +33,17 @@
 
 <h3>Installation</h3>
 
-<ol>
-    <li>
-        Clone the repository: <br> 
+Clone the repository: <br>
 
-```zsh git clone git@github.com:Gabrielparizet/Comfy_Studio.git```
+```
+git clone git@github.com:Gabrielparizet/Comfy_Studio.git
+```
 
-</li>
-</ol>
+Change directory in the <strong>api</strong> directory: <br>
 
+````
+cd api
+```
 
 <h2>Screenshots</h2>
 
