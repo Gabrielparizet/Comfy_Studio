@@ -1,7 +1,5 @@
 <h1>Comfy Studio 🪑</h1>
 
-<p>This is my first repository README!</p>
-
 <h2>Project Overview</h2>
 
 <p>
